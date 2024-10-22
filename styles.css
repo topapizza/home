@@ -9,7 +9,7 @@
 
 
 body{
-    background-image: url(backGroundPic.png) !important;
+    background-image: url(bg.png) !important;
     background-size: cover;
     font-family: 'ZeldaFont', sans-serif; /* Apply the font */
 }
