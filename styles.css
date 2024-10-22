@@ -13,9 +13,10 @@ body {
 
 
 body{
+    background-color: rgb(29, 0, 54) !important; 
     background-image:url(img_.png);
     background-size: cover;
-    /*background-color: rgb(29, 0, 54) !important; */
+    
 }
 
 h1{
