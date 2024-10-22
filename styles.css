@@ -7,15 +7,11 @@
     font-style: normal;
 }
 
-body {
-    font-family: 'ZeldaFont', sans-serif; /* Apply the font */
-}
-
 
 body{
-    background-image: url(backGroundPic.png);
+    background-image: url(backGroundPic.png) !important;
     background-size: cover;
-    
+    font-family: 'ZeldaFont', sans-serif; /* Apply the font */
 }
 
 h1{
